@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/LeonardoMenezes01/exemplo_upload/issues"
   },
-  "homepage": "https://github.com/LeonardoMenezes01/exemplo_upload#readme"
+  "homepage": "https://github.com/LeonardoMenezes01/exemplo_upload#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "multer": "^2.0.2"
+  }
 }
